@@ -11,6 +11,11 @@
 		B315072326B03B1F003574DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315072226B03B1F003574DF /* ContentView.swift */; };
 		B315072526B03B20003574DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B315072426B03B20003574DF /* Assets.xcassets */; };
 		B315072826B03B20003574DF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B315072726B03B20003574DF /* Preview Assets.xcassets */; };
+		B315073126B04D62003574DF /* temple.json in Resources */ = {isa = PBXBuildFile; fileRef = B315073026B04D62003574DF /* temple.json */; };
+		B315073526B04E86003574DF /* Temple.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315073426B04E86003574DF /* Temple.swift */; };
+		B315073726B04FD8003574DF /* ModelTemple.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315073626B04FD8003574DF /* ModelTemple.swift */; };
+		B315073926B050C5003574DF /* TempleRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315073826B050C5003574DF /* TempleRow.swift */; };
+		B3796E7826B068CE005A8471 /* TempleListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3796E7726B068CE005A8471 /* TempleListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +25,11 @@
 		B315072426B03B20003574DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B315072726B03B20003574DF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B315072926B03B20003574DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B315073026B04D62003574DF /* temple.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = temple.json; sourceTree = "<group>"; };
+		B315073426B04E86003574DF /* Temple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Temple.swift; sourceTree = "<group>"; };
+		B315073626B04FD8003574DF /* ModelTemple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelTemple.swift; sourceTree = "<group>"; };
+		B315073826B050C5003574DF /* TempleRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempleRow.swift; sourceTree = "<group>"; };
+		B3796E7726B068CE005A8471 /* TempleListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempleListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +62,9 @@
 		B315071F26B03B1F003574DF /* TempleId */ = {
 			isa = PBXGroup;
 			children = (
+				B315073326B04DC9003574DF /* view */,
+				B315073226B04DC0003574DF /* model */,
+				B315072F26B04D3E003574DF /* resources */,
 				B315072026B03B1F003574DF /* TempleIdApp.swift */,
 				B315072226B03B1F003574DF /* ContentView.swift */,
 				B315072426B03B20003574DF /* Assets.xcassets */,
@@ -67,6 +80,32 @@
 				B315072726B03B20003574DF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B315072F26B04D3E003574DF /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				B315073026B04D62003574DF /* temple.json */,
+			);
+			path = resources;
+			sourceTree = "<group>";
+		};
+		B315073226B04DC0003574DF /* model */ = {
+			isa = PBXGroup;
+			children = (
+				B315073426B04E86003574DF /* Temple.swift */,
+				B315073626B04FD8003574DF /* ModelTemple.swift */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		B315073326B04DC9003574DF /* view */ = {
+			isa = PBXGroup;
+			children = (
+				B315073826B050C5003574DF /* TempleRow.swift */,
+				B3796E7726B068CE005A8471 /* TempleListView.swift */,
+			);
+			path = view;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B315072826B03B20003574DF /* Preview Assets.xcassets in Resources */,
+				B315073126B04D62003574DF /* temple.json in Resources */,
 				B315072526B03B20003574DF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,8 +178,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B315073926B050C5003574DF /* TempleRow.swift in Sources */,
+				B315073726B04FD8003574DF /* ModelTemple.swift in Sources */,
+				B315073526B04E86003574DF /* Temple.swift in Sources */,
 				B315072326B03B1F003574DF /* ContentView.swift in Sources */,
 				B315072126B03B1F003574DF /* TempleIdApp.swift in Sources */,
+				B3796E7826B068CE005A8471 /* TempleListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
