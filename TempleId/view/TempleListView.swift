@@ -9,9 +9,15 @@ import SwiftUI
 
 struct TempleListView: View {
     var body: some View {
-        List(temples, id: \.id){
-            temple in TempleRow(temple: temple)
+        NavigationView{
+            List(temples){
+                temple in NavigationLink(destination: TempleDetailView(temple: temple)){
+                    TempleRow(temple: temple)
+                }
+            }
+            .navigationTitle("TempleId")
         }
+        
     }
 }
 
