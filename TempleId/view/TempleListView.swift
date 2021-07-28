@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct TempleListView: View {
+    @State private var sheet = false
+    
     var body: some View {
         NavigationView{
             List(temples){
@@ -16,6 +18,19 @@ struct TempleListView: View {
                 }
             }
             .navigationTitle("TempleId")
+            .toolbar{
+                ToolbarItem{
+                    Button{
+                        sheet.toggle()
+                    }
+                    label: {
+                        Image(systemName: "person.crop.circle")
+                    }.sheet(isPresented: $sheet){
+                        ProfileView()
+                    }
+                }
+                
+            }
         }
         
     }

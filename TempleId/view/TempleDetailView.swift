@@ -16,9 +16,10 @@ struct TempleDetailView: View {
                 temple.image.resizable().cornerRadius(20, corners: [.topLeft,.topRight]).shadow(radius: 4).padding()
             }
             VStack(alignment:.leading, spacing:10) {
-                Text("About \(temple.name)").font(.title2)
-                Text(temple.description)
-
+                Text("About \(temple.name)").font(.system(size: 25))
+                Divider()
+                Text(temple.description).fontWeight(.light)
+                
             }
             .padding()
         }

@@ -17,6 +17,7 @@
 		B315073926B050C5003574DF /* TempleRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315073826B050C5003574DF /* TempleRow.swift */; };
 		B3796E7826B068CE005A8471 /* TempleListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3796E7726B068CE005A8471 /* TempleListView.swift */; };
 		B3796E7A26B083BF005A8471 /* TempleDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3796E7926B083BF005A8471 /* TempleDetailView.swift */; };
+		B3796E7C26B0D8C2005A8471 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3796E7B26B0D8C2005A8471 /* ProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		B315073826B050C5003574DF /* TempleRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempleRow.swift; sourceTree = "<group>"; };
 		B3796E7726B068CE005A8471 /* TempleListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempleListView.swift; sourceTree = "<group>"; };
 		B3796E7926B083BF005A8471 /* TempleDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempleDetailView.swift; sourceTree = "<group>"; };
+		B3796E7B26B0D8C2005A8471 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				B315073826B050C5003574DF /* TempleRow.swift */,
 				B3796E7726B068CE005A8471 /* TempleListView.swift */,
 				B3796E7926B083BF005A8471 /* TempleDetailView.swift */,
+				B3796E7B26B0D8C2005A8471 /* ProfileView.swift */,
 			);
 			path = view;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3796E7C26B0D8C2005A8471 /* ProfileView.swift in Sources */,
 				B315073926B050C5003574DF /* TempleRow.swift in Sources */,
 				B3796E7A26B083BF005A8471 /* TempleDetailView.swift in Sources */,
 				B315073726B04FD8003574DF /* ModelTemple.swift in Sources */,
