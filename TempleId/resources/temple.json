@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Badhut Temple",
+        "category": "Temple",
+        "city": "Malang",
+        "state": "East Java",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "description": "Badhut Temple was discovered by archeologists in 1923. Also known as Liswa Temple, this ancient structure is situated in Karangbesuki Village, Dau Subdistrict, Malang Regency, East Java. It is about five kilometers away from Malang municipality. It is believed that Badhut Temple was built long before Airlangga came to reign, an era in which other temples started to be constructed in East Java.",
+        "imageName": "badhut"
+    },
+    {
+        "name": "Bajangratu Temple",
+        "category": "Temple",
+        "city": "Mojokerto",
+        "state": "East Java",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "ajangratu Temple is situated in Kraton Hamlet, Temon Village, Trowulan Subdistrict, Mojokerto Regency. It is about 3.5 kilometers away from Wringinlawang Temple and 600 meters away from Tikus Temple. This temple hides many secrets, as most of information revealing when the temple was erected, the king who instructed its construction and its functions remains unknown. The name Bajangratu was first mentioned in Oudheidkunding Verslag (OV) in 1915.Archeologist Sri Soeyatmi Satari claims that the name Bajangratu is closely connected to King Jayanegara of Majapahit, since the word 'bajang' means a dwarf. According to Kitab (book) Pararaton and folklores, Jayanegara was enthroned at a tender age, when he was still a tiny young boy. The nickname Dwarf King or Bajangratu, however, stuck with him as he grew older.",
+        "imageName": "bajangratu"
+    },
+    {
+        "name": "Brahu Temple",
+        "category": "Temple",
+        "city": "Mojokerto",
+        "state": "East Java",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Trowulan Subdistrict, Mojokerto Regency. It lies in front of the office of government agency for Preservation of Historical and Ancient Heritages, along a highway connecting Mojokerto and Jombang, East Java. To reach the temple, visitors must drive away from the traffic and follow a small, paved lane heading north. Brahu Temple is on the left, 1.8 kilometers away from the highway.Some people argue that Brahu Temple is older than any other temple in Trowulan. The name Brahu is said to derive from the word 'Wanaru' or 'Warahu', a shrine mentioned in an inscription on ‘Alasantan’ copper sculpture. The sculpture was found 45 meters to the west of Brahu Temple. The copper sculpture was made in 861 Javanese year, or to be precise, on September 9, 939 AD by the order of King Mpu Sindok of Kahuripan. According to local folklore, the temple served a crematory function, as a place where Brawijayan kings were incinerated. A research was conducted and the results turned to contradict the folklore as researches failed to find ashes or remains inside the temple. ",
+        "imageName": "brahu"
+    },
+    
+    {
+        "name": "Gununggangsir Temple",
+        "category": "Temple",
+        "city": "Pasuruan",
+        "state": "East Java",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Gunung Gangsir Temple lies in Gunung Gangsir Village, Beji Subdistrict, about 18 kilometers away from Pasuruan. The name of the temple, as a matter of fact, is Keboncandi Temple. However, since the temple is situated in Gunung Gangsir Village, local people call it Gunung Gangsir Temple.Little information is available regarding the temple. It is told that the temple was built when King Airlangga was in reign, circa 11th century. Although the temple is believed to be erected earlier than the era of Singasari administration, Gunung Gangsir Temple was built using bricks, instead of andesite rocks. ",
+        "imageName": "gununggangsir"
+    },
+    {
+        "name": "Jago Temple",
+        "category": "Temple",
+        "city": "Malang",
+        "state": "East Java",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Jago Temple is located in Jago Hamlet of Tumpang Village, Tumpang Subdistrict, Malang Regency, or 22 km to the east of Malang. Because it is located in Tumpang village, the temple is also called Tumpang Temple. Local villagers call the temple Cungkup.According to Negarakertagama and Pararaton, the original name of this temple is Jajaghu. Verse 41 phrase 4 of Negarakertagama describes that King Wisnuwardhana who ruled Singasari was a Buddhist Shiva, a religious sect that combines the teachings of Hindu and Buddhist. The teaching flourished during the ruling of Singasari Kingdom, a kingdom located 20 km from Jago Temple. Jajaghu, which means 'greatness', is a term used for referring a shrine. ",
+        "imageName": "jago"
+    },
+    {
+        "name": "Jawi Temple",
+        "category": "Temple",
+        "city": "Pasuruan",
+        "state": "East Java",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "This temple is located on the foot of Welirang Hill, Candi Wates village, Prigen Subdistrict, Pasuruan Regency, around 31 km from the city of Pasuruan. The temple is relatively still intact after frequent restorations. The second restoration of Jawi Temple was performed between 1938 and 1941 out of its ruined condition. The work, however, was discontinued because there are many missing stones, and was completed further between 1975 and 1980. Verse 56 of Negarakertagama mentions that Jawi Temple was built by the last king of Singasari Kingdom, Kertanegara, as a worship shrine for Shiva-Buddhist followers. King Kartanegara was a Shiva-Buddhist follower. While being a worship shrine, Jawi Temple is also a place where Kertanegara ashes are kept. This is rather strange because Jawi Temple is located quite distant away from the center of Singasari Kingdom. It is probably because of the fact that the people in the area were so loyal to their king and many of them were Shiva-Buddhist followers. The assumption is founded on a reality that as Raden Wijaya, Kertanegara’s son-in-law, fled after Kertanegara was dethroned by King Jayakatwang from Gelang-gelang (Kediri); he had once hidden in this area before taking refuge to Madura. ",
+        "imageName": "jawi"
+    },
+    {
+        "name": "Kidal Temple",
+        "category": "Temple",
+        "city": "Malang",
+        "state": "East Java",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Kidal Temple is located in Rejokidal village of Tumpang Subdistrict in Malang Regency approximately 20 km to the east of Malang city. This temple is said to be the oldest shrine in East Java, because Airlangga (11-12 century AD) of Kahuripan Kingdom and kings of Kediri Kingdoms (12-13 century AD) left only Belahan Temple and Jalatunda, which is a pool.Kidal Temple was built in 1248 AD, following a 'Cradha' funeral ceremony for King Anusapati of Singasari Kingdom. The temple was constructed as King Anusapati’s dharma in order the he received glorification as Shiva Mahadewa. Built during transitional period of Central Java kingdoms’ heyday to East Java kingdoms, Kidal Temple shares the characteristics of Central Java temple and East Java temple. Some scholars even mention that Kidal Temple is the prototype temple of East Java style. ",
+        "imageName": "Kidal"
+    },
+    {
+        "name": "Panataran Temple",
+        "category": "Temple",
+        "city": "Blitar",
+        "state": "East Java",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Panataran Temple is located in the southwest slope of Kelud Volcano, approximately 12 km to the north of Blitar city, or in Panataran village, Ngleggok Subdistrict, Blitar Municipality. This temple is a compound of ancient buildings in a row from northwest to the east and to the southeast, occupying an area of 12,946 m2.Panataran temple compound was re-discovered in 1815 by Sir Thomas Stamford Raffles (1781 – 1826), a lieutenant General Governor of British colonial government in Indonesia. Together with Dr. Horsfield, a natural scientist, Raffles made a visit to Panataran Temple. After Raffles’ rediscovery, researchers began to flock the area for research and recording of archeological objects in Panataran compound. In 1867, Andre de la Porte and J. Knebel also carried out a research on Panataran Temple compound. The outcomes were published in 1900 under a title “De ruines van Panataran.",
+        "imageName": "panataran"
+    },
+    {
+        "name": "Sadon Temple",
+        "category": "Temple",
+        "city": "Magetan",
+        "state": "East Java",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "This temple is located by the road linking Magetan and Panekan in Sadon hamlet of Cepoko village, Panekan subdistrict, Magetan, East Java. Although the temple’s name is identical with the name of hamlet in which it is situated, local people prefer calling it Reog temple with the presence of Kalamakara statue that resembles tiger head in 'dhadhakmerak' dance. Dhadhakmerak is a mask depicting tiger head with peacock’s feathers around it. The total weight of the mask is around 30-40 kg to be worn by a Singabarong dancer.Little is known about Reog temple, although this ancient heritage has been designated as an archaeological preservation site. It was said that this temple is a legacy from King Airlangga, but information is not available as to the time the temple was built and for what purposes. Restoration has yet to be conducted on this temple, considering it is still in ruined condition.",
+        "imageName": "sadon"
+    },
+    {
+        "name": "Sawentar Temple",
+        "category": "Temple",
+        "city": "Blitar",
+        "state": "East Java",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Sawentar Temple is located in Kanigoro village, Garum Subdistrict, to the east of Blitar. The temple lies several meters below the ground level. For years the temple was buried under the ground before it was excavated in 1915 to 1920. This rectangular temple, 9.53 X 6.86 meter in dimension, is very similar to Kidal Temple. The body of the temple stands on a shelf in 7 x 7 meter dimension, and 1.5 m high. The temple stands 10.65 meters high. The body of the temple is smaller than its base, creating a narrow veranda around it. The entrance to the temple is at the west side, and there are niches on both sides of the entrance. There are no Kala head engravings on either the entrance frame or the niches. Both niches are empty without any statues. Outside the walls of the temple, at the north and south sides, there are also empty niches. Unlike the entrance to the temple, there are relief sculptures depicting Kala heads above these niches.",
+        "imageName": "sawentar"
+    },
+    {
+        "name": "Singasari Temple",
+        "category": "Temple",
+        "city": "Malang",
+        "state": "East Java",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Singasari Temple is located at Candi Renggo village, Singosari Subdistrict, about 9 km from Malang city. The temple is also called Cungkup temple or Tower temple, meaning that this temple is the highest, at least compared to the other temples in the compound.Today, however, it is only Singasari temple left in Singasari area, while the other temples have gone without a trace. There is no certain time when this temple was built, but archaeologists estimate that the temple was built around 13th century to commemorate King Kertanagara of Singosari Kingdom. There are two shrines dedicated to Kertanagara, Singosari temple and Jawi temple, as indicated in the presence of several Shiva statues in the temple’s court. ",
+        "imageName": "singasari"
+    },
+    {
+        "name": "Tikus Temple",
+        "category": "Temple",
+        "city": "Mojokerto",
+        "state": "East Java",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Tikus Temple is located in Dinuk hamlet, Temon village, Trowulan Subdistrict, Mojokerto Regency, East Java, 13 kilometers to the southeast of Mojokerto. To reach the temple site, visitors, when taking the highway connecting Mojokerto and Jombang, turn left through Segaran Pool and Bajangratu Temple which are located on the left. Tikus temple is also on the left of the street, around 600 m from Bajangratu temple.Previously buried under the ground, Tikus Temple was rediscovered in 1914. Site excavation was conducted based on report by Mojokerto Regent R.A.A. Kromojoyo Adinegoro, informing the discovery of miniature temple at a public cemetery. Complete restoration was implemented between 1984 and 1985. The name 'Tikus' (rat) is used by the local community. They say that the site was the den for a colony of rats. No written information is available that clearly describe the time, purpose, and the builder of the temple. However, the discovery of a miniature tower indicates that the temple was built between 13th to 14th century AD, because miniature tower was a characteristic of architecture of that period.",
+        "imageName": "tikus"
+    },
+    {
+        "name": "Wringinlanang Temple",
+        "category": "Temple",
+        "city": "Mojokerto",
+        "state": "East Java",
+        "id": 1013,
+        "isFeatured": false,
+        "isFavorite": false,
+        "description": "Wringinlawang Temple is located in Wringinlawang Hamlet, Jati Pasar Village, Trowulan Subdistrict, Mojokerto Regency, or 11 km from Mojokerto en route to Jombang. Legend has it that near the temple there was a big banyan tree, and the temple was named after it (in Javanese, wringin is banyan tree, and lawang is door).Little is known about the period in which the temple was built and about its function. In Raffles’ account in 1815, this ancient building is called Gapura Jati Paser, which probably was derived from the name of the village where the temple is located. In Knebel (1907), this structure is called 'Wringinlawang Gate'. Wringinlawang is a type of bentar temple, i.e. gate without roof. Bentar temple usually functions as the outermost gate of a building compound. From the shape, Wringinlawang Gate is probably a gate that leads to one of the building compounds within the city of Majapahit.",
+        "imageName": "wringinlanang"
+    },
+]
