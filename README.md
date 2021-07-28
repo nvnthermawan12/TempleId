@@ -17,7 +17,7 @@ Aplikasi ini dibuat untuk memenuhi syarat kelulusan dari kelas dicoding "Belajar
 
 ## Demo
 
-![](TempleId.gif)
+![](./img/TempleId.gif)
 
 ## Credit
 
