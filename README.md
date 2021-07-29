@@ -19,6 +19,10 @@ Aplikasi ini dibuat untuk memenuhi syarat kelulusan dari kelas dicoding "Belajar
 
 ![](./img/TempleId.gif)
 
+
+## Review Result
+<h2 align="center"><img src="./img/review.png" width="80%"></h2>
+
 ## Credit
 
 [Perpustakaan Republik Indonesia](https://candi.perpusnas.go.id/temples/)
